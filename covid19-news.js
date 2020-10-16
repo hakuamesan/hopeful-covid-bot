@@ -113,6 +113,11 @@ const data = [
       text: "👩‍🔬 New Study Suggests COVID-19 survivors may have protective antibodies for up to four months",
       link: "https://news.sky.com/story/coronavirus-covid-19-survivors-may-have-protective-antibodies-for-up-to-four-months-study-suggests-12102310",
       source: "@SkyNews"
+    },
+    {
+      text: "Oxford scientists develop 5-minute Covid-19 antigen test",
+      link: "https://www.cnbc.com/2020/10/15/oxford-scientists-develop-5-minute-covid-19-antigen-test.html",
+      source: "@CNBC"
     }
   ];
 
