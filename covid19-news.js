@@ -115,7 +115,7 @@ const data = [
       source: "@SkyNews"
     },
     {
-      text: "Oxford scientists develop 5-minute Covid-19 antigen test",
+      text: "🇬🇧 ⚡️ Oxford scientists develop 5-minute Covid-19 antigen test",
       link: "https://www.cnbc.com/2020/10/15/oxford-scientists-develop-5-minute-covid-19-antigen-test.html",
       source: "@CNBC"
     }
